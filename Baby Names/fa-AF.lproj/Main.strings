@@ -1,0 +1,48 @@
+/* Class = "UINavigationItem"; title = "Favorite Names"; ObjectID = "8kI-Cn-TSA"; */
+"8kI-Cn-TSA.title" = "نام های برگزیده";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "AuW-T2-fo2"; */
+"AuW-T2-fo2.text" = "جزئیات";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "Bc8-Ef-0lc"; */
+"Bc8-Ef-0lc.text" = "جزئیات";
+
+/* Class = "UITabBarItem"; title = "Boys"; ObjectID = "RX2-bH-1FB"; */
+"RX2-bH-1FB.title" = "مذکر";
+
+/* Class = "UILabel"; text = "native"; ObjectID = "U67-6e-wY8"; */
+"U67-6e-wY8.text" = "مبدا";
+
+/* Class = "UITabBarItem"; title = "Girls"; ObjectID = "V8p-k7-Bpc"; */
+"V8p-k7-Bpc.title" = "مونث";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "VrP-jk-Klm"; */
+"VrP-jk-Klm.text" = "عنوان";
+
+/* Class = "UITabBarItem"; title = "Favorites"; ObjectID = "Xrq-ed-IyQ"; */
+"Xrq-ed-IyQ.title" = "برگزیده";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "cCI-LA-cu0"; */
+"cCI-LA-cu0.text" = "جزئیات";
+
+/* Class = "UINavigationItem"; title = "Boy Names"; ObjectID = "elg-we-A05"; */
+"elg-we-A05.title" = "نام های مذکر";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "iAW-cc-Bva"; */
+"iAW-cc-Bva.text" = "نام";
+
+/* Class = "UILabel"; text = "origin"; ObjectID = "rgq-HZ-kbm"; */
+"rgq-HZ-kbm.text" = "مبدا";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "uid-dZ-ANF"; */
+"uid-dZ-ANF.text" = "عنوان";
+
+/* Class = "UINavigationItem"; title = "Girl Names"; ObjectID = "uxQ-M9-hta"; */
+"uxQ-M9-hta.title" = "نام های مونث";
+
+/* Class = "UILabel"; text = "meaning"; ObjectID = "xLw-dX-MzN"; */
+"xLw-dX-MzN.text" = "معنی";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "zA3-z5-HeX"; */
+"zA3-z5-HeX.text" = "عنوان";
+

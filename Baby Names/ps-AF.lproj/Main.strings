@@ -1,0 +1,48 @@
+/* Class = "UINavigationItem"; title = "Favorite Names"; ObjectID = "8kI-Cn-TSA"; */
+"8kI-Cn-TSA.title" = "غوره نومونه";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "AuW-T2-fo2"; */
+"AuW-T2-fo2.text" = "سپړنې";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "Bc8-Ef-0lc"; */
+"Bc8-Ef-0lc.text" = "سپړنې";
+
+/* Class = "UITabBarItem"; title = "Boys"; ObjectID = "RX2-bH-1FB"; */
+"RX2-bH-1FB.title" = "نارینه";
+
+/* Class = "UILabel"; text = "native"; ObjectID = "U67-6e-wY8"; */
+"U67-6e-wY8.text" = "اصلی";
+
+/* Class = "UITabBarItem"; title = "Girls"; ObjectID = "V8p-k7-Bpc"; */
+"V8p-k7-Bpc.title" = "ښځینه";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "VrP-jk-Klm"; */
+"VrP-jk-Klm.text" = "سرلیک";
+
+/* Class = "UITabBarItem"; title = "Favorites"; ObjectID = "Xrq-ed-IyQ"; */
+"Xrq-ed-IyQ.title" = "غوره";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "cCI-LA-cu0"; */
+"cCI-LA-cu0.text" = "سپړنې";
+
+/* Class = "UINavigationItem"; title = "Boy Names"; ObjectID = "elg-we-A05"; */
+"elg-we-A05.title" = "نارینه نومونه";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "iAW-cc-Bva"; */
+"iAW-cc-Bva.text" = "نوم";
+
+/* Class = "UILabel"; text = "origin"; ObjectID = "rgq-HZ-kbm"; */
+"rgq-HZ-kbm.text" = "سرچینه";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "uid-dZ-ANF"; */
+"uid-dZ-ANF.text" = "سرلیک";
+
+/* Class = "UINavigationItem"; title = "Girl Names"; ObjectID = "uxQ-M9-hta"; */
+"uxQ-M9-hta.title" = "ښځینه نومونه";
+
+/* Class = "UILabel"; text = "meaning"; ObjectID = "xLw-dX-MzN"; */
+"xLw-dX-MzN.text" = "معنا";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "zA3-z5-HeX"; */
+"zA3-z5-HeX.text" = "سرلیک";
+
